@@ -1,8 +1,10 @@
 # myMacOS
 MacOS Setup 💻
 
-#### 1. [VS Code](https://github.com/Microsoft/vscode)
+- [Visual Studio Code](https://github.com/Microsoft/vscode) - Microsoft's free & open-source editor, VSCode Plugins.
 
-#### 2. [Hyper](https://github.com/zeit/hyper)
+- [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 
-#### 3. [Focus](https://heyfocus.com/) 
+- [Focus](https://heyfocus.com/)
+
+- [Sketch](https://www.sketchapp.com/) Craft Plugin
