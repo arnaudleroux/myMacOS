@@ -1,6 +1,6 @@
 # myMacOS
 MacOS Setup 💻
-
+- [Airtable](https://airtable.com/) - Works like a spreadsheet but gives you the power of a database to organize anything.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Microsoft's free & open-source editor, VSCode Plugins.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 - [GitKraken](https://www.gitkraken.com/)
