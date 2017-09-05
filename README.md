@@ -1,7 +1,7 @@
 # myMacOS
 MacOS Setup 💻
 - [Airtable](https://airtable.com/) - Works like a spreadsheet but gives you the power of a database to organize anything.
-- [AppCleaner](https://freemacsoft.net/appcleaner)
+- [AppCleaner](https://freemacsoft.net/appcleaner) - A small application which allows you to thoroughly uninstall unwanted apps.
 - [Git](https://git-scm.com/) -  Free and open source distributed version control system.
 - [GitKraken](https://www.gitkraken.com/) - The most popular Git GUI for Windows, Mac AND Linux.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
