@@ -9,6 +9,7 @@ MacOS Setup 💻
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Microsoft's free & open-source editor, VSCode Plugins.
 - [Focus](https://heyfocus.com/)
 - [Sketch](https://www.sketchapp.com/) Craft Plugin
+- [Spark](https://sparkmailapp.com/) - A fast email client. For both Mac OS and iOS.
 - [Zeplin](https://www.zeplin.io/) - A collaboration tool for work between designers and developers.
 
 To have a look:
