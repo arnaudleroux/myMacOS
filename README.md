@@ -22,7 +22,6 @@ To have a look:
 - https://paw.cloud/
 - https://www.getpostman.com/
 - https://github.com/nicolargo/glances
-- https://www.cakebrew.com/
 - https://git-scm.com/
 - https://github.com/sequelpro/sequelpro
 - http://sqlitebrowser.org/
