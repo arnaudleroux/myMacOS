@@ -7,10 +7,11 @@ MacOS Setup 💻
 - [GitKraken](https://www.gitkraken.com/) - The most popular Git GUI for Windows, Mac AND Linux.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 - [Oh My Zsh]() - An open source, community-driven framework for managing your zsh configuration.
-- [Visual Studio Code](https://github.com/Microsoft/vscode) - Microsoft's free & open-source editor, VSCode Plugins.
+- [Visual Studio Code](https://github.com/Microsoft/vscode) - Microsoft's free & open-source editor, [VSCode Plugins](https://github.com/arnaudlrx/myMacOS/blob/master/editor-plugin.md).
 - [Sketch](https://www.sketchapp.com/) Craft Plugin
 - [Skitch](https://evernote.com/products/skitch) - 
 - [Spark](https://sparkmailapp.com/) - A fast email client. For both Mac OS and iOS.
+- [WhatsApp](https://www.whatsapp.com/) - Fast, simple, secure messaging and calling.
 - [Zeplin](https://www.zeplin.io/) - A collaboration tool for work between designers and developers.
 
 To have a look:
