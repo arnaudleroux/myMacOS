@@ -6,6 +6,7 @@ MacOS Setup 💻
 - [Git](https://git-scm.com/) -  Free and open source distributed version control system.
 - [GitKraken](https://www.gitkraken.com/) - The most popular Git GUI for Windows, Mac AND Linux.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
+- MindNode
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) - An open source, community-driven framework for managing your zsh configuration.
 - [Sketch](https://www.sketchapp.com/) Craft Plugin
 - [Skitch](https://evernote.com/products/skitch) - 
