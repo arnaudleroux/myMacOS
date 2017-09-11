@@ -22,6 +22,7 @@ MacOS Setup 💻
 To have a look:
 - BetterRename - http://www.publicspace.net/BetterRename/
 - SwitchHosts https://oldj.github.io/SwitchHosts/
+- RecordIt - http://recordit.co/
 - https://www.renfei.org/snippets-lab/
 - https://kapeli.com/dash
 - https://macpaw.com/fr/gemini
