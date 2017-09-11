@@ -8,13 +8,15 @@ MacOS Setup 💻
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 - MindNode
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) - An open source, community-driven framework for managing your zsh configuration.
+- OnyX
 - [Sketch](https://www.sketchapp.com/) Craft Plugin
 - [Skitch](https://evernote.com/products/skitch) - 
 - Skype
 - Slack
 - [Spark](https://sparkmailapp.com/) - A fast email client. For both Mac OS and iOS.
-- Spotify
-- Tweetbot
+- [Spotify](https://www.spotify.com/) - Digital music service that gives you access to millions of songs.
+- [Station](https://getstation.com/) - Free desktop application designed to make your work in the cloud simpler & faster.
+- [Tweetbot](https://tapbots.com/tweetbot/mac/) - Award-winning, native Twitter client for the Mac.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Microsoft's free & open-source editor, [VSCode Plugins](https://github.com/arnaudlrx/myMacOS/blob/master/editor-plugin.md).
 - [WhatsApp](https://www.whatsapp.com/) - Fast, simple, secure messaging and calling.
 - [Zeplin](https://www.zeplin.io/) - A collaboration tool for work between designers and developers.
