@@ -1,6 +1,5 @@
 # myMacOS
 MacOS Setup 💻
-- [Abstract](https://www.goabstract.com/) - Version Control for Designers.
 - [Airtable](https://airtable.com/) - Works like a spreadsheet but gives you the power of a database to organize anything.
 - [AppCleaner](https://freemacsoft.net/appcleaner) - A small application which allows you to thoroughly uninstall unwanted apps.
 - [Focus](https://heyfocus.com/) - Blocks distracting websites and apps so you can improve your productivity and get back to work!
