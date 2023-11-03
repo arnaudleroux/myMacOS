@@ -9,8 +9,6 @@ MacOS Setup 💻
 - MindNode
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) - An open source, community-driven framework for managing your zsh configuration.
 - OnyX
-- [Sketch](https://www.sketchapp.com/) Craft Plugin
-- [Skitch](https://evernote.com/products/skitch) - 
 - Skype
 - Slack
 - [Spark](https://sparkmailapp.com/) - A fast email client. For both Mac OS and iOS.
